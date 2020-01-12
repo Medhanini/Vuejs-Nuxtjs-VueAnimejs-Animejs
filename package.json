@@ -1,0 +1,17 @@
+{
+  "name": "Vuejs-Nuxtjs-VueAnimejs-Animejs",
+  "version": "1.0.0",
+  "description": "simple Nuxtjs examle using Animejs",
+  "author": "Mohamed Hanini",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
