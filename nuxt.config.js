@@ -28,6 +28,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+  { src: '~plugins/vue-anime.js' }
   ],
   /*
   ** Nuxt.js dev-modules
